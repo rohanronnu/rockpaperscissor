@@ -1,0 +1,5 @@
+This project enables the user to play the Rock Paper Scissor game against the computer.
+It is created with Python language. It takes the imput from the user who selects one of the three possible combinations among rock, paper, and scissors. 
+The computer selects a random pick from the three possibilities and the winning condition is given to the program to check whether the user wins or loses the game.
+When the user wants to quit the game he/she can simply press 'q' to end the game.
+At the end of the game, it shows the number of wins of user and computer on the terminal.
